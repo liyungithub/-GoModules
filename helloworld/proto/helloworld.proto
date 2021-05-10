@@ -14,7 +14,7 @@
 
 syntax = "proto3";
 
-option go_package = "gitee.com/liyunmy/go-modules/helloworld/helloworld";
+option go_package = "gitee.com/liyunmy/go-modules/helloworld/proto/helloworld";
 
 package helloworld;
 
