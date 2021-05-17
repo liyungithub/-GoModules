@@ -14,7 +14,7 @@
 
 syntax = "proto3";
 
-option go_package = "github.com/liyungithub/-GoModules/tree/master/helloworld/proto/helloworld";
+option go_package = "github.com/liyungithub/-GoModules/helloworld";
 
 package helloworld;
 
